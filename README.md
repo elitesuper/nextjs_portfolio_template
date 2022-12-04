@@ -12,8 +12,6 @@
 3. Styled entirely with [TailwindCss](https://tailwindcss.com/)
 4. Re-organized data population file for customizing site.
 5. Significant improvement/modernization of all site sections
- 
-**Looking for the old version? You can find it [here.](https://github.com/tbakerx/react-resume-template/releases/tag/v1.0.0)**
 
 ## Description
 
